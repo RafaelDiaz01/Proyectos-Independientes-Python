@@ -1,8 +1,9 @@
 # 📚 Proyectos Independientes en Python  
 
-Hola, este es mi repositorio **Proyectos-Independientes-Python**, para alojar proyectos que se me vienen a la mente.
-Estos proyectos serán desarrollados en el lenguaje de programación **Python** y solo serán ejecutados en consola.
-Tengo en mente que después les puedo agregar una interfaz gráfica más amigable para el usuario.
+Hola a todos, este es mi repositorio **Proyectos-Independientes-Python** para alojar ideas de proyectos que 
+se me ocurren, mismos que serán desarrollados en el lenguaje de programación **Python** y solo serán ejecutados 
+en consola (tengo en mente que después les puedo agregar una interfaz gráfica más amigable para el usuario).
+
 Repositorio creado mientras estudio en la *Universidad de la Sierra Júarez*.
 
 La mayoría de los proyectos serán sobre negocios de la comunidad **Ixtlán de Juárez**, con el fin de automatizar 
@@ -21,16 +22,16 @@ algunos procesos.
 
 ## 📸 Capturas de Pantalla  
 
-| Login                                        | Menú              | General                                       |  
-|----------------------------------------------|-------------------|-----------------------------------------------|  
-| <img src="screenshots/home.png" width="200"> | Captura Pendiente | Captura Pendiente |  
+| Login                                                     | Menú              | General                                       |  
+|-----------------------------------------------------------|-------------------|-----------------------------------------------|  
+| <img src="screenshots/home.png" width="200" height="200"> | Captura Pendiente | Captura Pendiente |  
 
 ---
 
 ## 🛠️ Tecnologías Utilizadas  
  
-- **Python**: Lenguaje de programación.  
-- **Editor**: PyCharm.
+- **Lenguaje de programación**: Python 🐍  
+- **IDE**: PyCharm 🖥️
 
 ---
 
